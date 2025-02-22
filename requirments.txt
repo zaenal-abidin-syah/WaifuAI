@@ -1,0 +1,10 @@
+speechrecognition
+sounddevice
+pyttsx3
+playsound
+openapi
+#googletrans
+google-trans-new
+deep-translator
+tortoise-tts
+pygobject
